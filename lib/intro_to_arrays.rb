@@ -9,4 +9,12 @@ end
 def first_element(a)
   a[0]
 end
-  
+
+def third_element(a)
+  a[2]
+end
+
+def last_element(a)
+  a[-1]
+end
+
